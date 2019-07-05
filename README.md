@@ -98,7 +98,7 @@ Product Spec
 
 Wireframes
 
-![Image of Wireframe](./wireframe.png)
+![Image of Wireframe](./wireframe.jpg)
 
 [BONUS] Digital Wireframes & Mockups
 
