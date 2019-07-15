@@ -1,6 +1,6 @@
 Group Project - README Template
 
-**Title**
+**QuikQ**
 
 Table of Contents
 
@@ -11,9 +11,11 @@ Table of Contents
 
 Overview
 
+
 Description
 
 An app that allows users to collaboratively construct a playlist for an event.
+
 
 App Evaluation
 
@@ -21,10 +23,11 @@ App Evaluation
 
 * *Category:* Music
 * *Mobile:* 
-* *Story: *
-* *Market: *  
-* *Habit: *
+* *Story:*
+* *Market:*  
+* *Habit:*
 * *Scope:* 
+
 
 Product Spec
 
@@ -41,7 +44,8 @@ Product Spec
     * View queue
     * Search music
 
-* Additional Stories for the Target product *
+
+* Additional Stories for the Target product*
 
 * Clients can...
     * Join queue with a code
@@ -72,17 +76,16 @@ Product Spec
 
 2. Screen Archetypes
 
-* 
+* Login
+* Main
+      * Queue fragment
+      * Search fragment
 
 3. Navigation
 
-*Tab Navigation* (Tab to Screen)
-
-* 
-
-*Flow Navigation* (Screen to Screen)
-
-* 
+* Login --> Main screen with Queue fragment
+* Main --> Search fragment (when Search bar selected)
+* Main --> Queue fragment (when back arrow pressed)
 
 Wireframes
 
