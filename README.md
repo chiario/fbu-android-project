@@ -12,7 +12,7 @@ Table of Contents
 
 Overview
 
-
+Curate a music list
 
 Description
 
@@ -22,11 +22,11 @@ An app that allows users to collaboratively construct a playlist for an event.
 App Evaluation
 
 * *Category:* Music
-* *Mobile:* 
+* *Mobile:*
 * *Story:*
 * *Market:*  
 * *Habit:*
-* *Scope:* 
+* *Scope:*
 
 
 Product Spec
