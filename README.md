@@ -1,6 +1,6 @@
 Group Project - README Template
 
-**QuikQ**
+**curate**
 
 Table of Contents
 
@@ -77,13 +77,15 @@ Product Spec
 2. Screen Archetypes
 
 * Login
+* Create page
 * Main
       * Queue fragment
       * Search fragment
 
 3. Navigation
 
-* Login --> Main screen with Queue fragment
+* Login --> Create OR Main screen with Queue fragment
+* Create --> Main screen with Queue fragment
 * Main --> Search fragment (when Search bar selected)
 * Main --> Queue fragment (when back arrow pressed)
 
