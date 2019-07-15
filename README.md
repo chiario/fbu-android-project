@@ -4,21 +4,22 @@ Group Project - README Template
 
 Table of Contents
 
-1. Overview (https://hackmd.io/PjNl4T_PSzaDQ6LGA5tPuQ?both#Overview)
-2. Product Spec (https://hackmd.io/PjNl4T_PSzaDQ6LGA5tPuQ?both#Product-Spec)
-3. Wireframes (https://hackmd.io/PjNl4T_PSzaDQ6LGA5tPuQ?both#Wireframes)
-4. Schema (https://hackmd.io/PjNl4T_PSzaDQ6LGA5tPuQ?both#Schema)
+1. Overview ()
+2. Product Spec ()
+3. Wireframes ()
+4. Schema ()
 
 Overview
 
 Description
 
+An app that allows users to collaboratively construct a playlist for an event.
 
 App Evaluation
 
 [Evaluation of your app across the following attributes]
 
-* *Category:* 
+* *Category:* Music
 * *Mobile:* 
 * *Story: *
 * *Market: *  
@@ -29,13 +30,45 @@ Product Spec
 
 1. User Stories (Required and Optional)
 
-*Required Must-have Stories*
+*Required for the MVP*
 
-* 
+* App plays songs via Spotify API calls
+* Admin can...
+    * Create/delete queue
+    * Add/delete music
+    * Reorder music
+    * Play/pause music
+    * View queue
+    * Search music
 
-*Optional Nice-to-have Stories*
+* Additional Stories for the Target product *
 
-* 
+* Clients can...
+    * Join queue with a code
+    * View queue
+    * Add music
+    * Like music
+    * Search music
+* Admin can...
+    * Skip songs
+* App orders queue based on number of likes
+
+
+*Optional Stretch Stories*
+
+* Clients can...
+    * Join queue with geofencing and/or QR code
+    * Save music to Spotify library
+    * Use the app and add music without logging in with Spotify
+    * Share music through other applications
+    * Listen/contribute to a queue remotely
+* App recommends music added in previous queues
+* App orders queue based on additional criteria (e.g. time in queue)
+* Admin can...
+    * Set a default playlist
+    * Set a music blacklist (e.g. all explicit music)
+* Push notifications encourage users to use the app, add/like music
+
 
 2. Screen Archetypes
 
