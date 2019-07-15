@@ -33,10 +33,10 @@ Product Spec
 
 1. User Stories (Required and Optional)
 
-*Required for the MVP*
+* *Required for the MVP*
 
-* App plays songs via Spotify API calls
-* Admin can...
+   * App plays songs via Spotify API calls
+   * Admin can...
     * Create/delete queue
     * Add/delete music
     * Reorder music
@@ -45,33 +45,33 @@ Product Spec
     * Search music
 
 
-* Additional Stories for the Target product*
+* * Additional Stories for the Target product*
 
-* Clients can...
+   * Clients can...
     * Join queue with a code
     * View queue
     * Add music
     * Like music
     * Search music
-* Admin can...
+   * Admin can...
     * Skip songs
-* App orders queue based on number of likes
+   * App orders queue based on number of likes
 
 
-*Optional Stretch Stories*
+* *Optional Stretch Stories*
 
-* Clients can...
+   * Clients can...
     * Join queue with geofencing and/or QR code
     * Save music to Spotify library
     * Use the app and add music without logging in with Spotify
     * Share music through other applications
     * Listen/contribute to a queue remotely
-* App recommends music added in previous queues
-* App orders queue based on additional criteria (e.g. time in queue)
-* Admin can...
+   * App recommends music added in previous queues
+   * App orders queue based on additional criteria (e.g. time in queue)
+   * Admin can...
     * Set a default playlist
     * Set a music blacklist (e.g. all explicit music)
-* Push notifications encourage users to use the app, add/like music
+   * Push notifications encourage users to use the app, add/like music
 
 
 2. Screen Archetypes
@@ -89,11 +89,8 @@ Product Spec
 
 Wireframes
 
-![Image of Wireframe](./wireframe.jpg)
+![Image of Wireframe](./wireframe.png)
 
-[BONUS] Digital Wireframes & Mockups
-
-[BONUS] Interactive Prototype
 
 Schema
 
