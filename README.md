@@ -4,12 +4,14 @@ Group Project - README Template
 
 Table of Contents
 
-1. Overview ()
-2. Product Spec ()
-3. Wireframes ()
-4. Schema ()
+1. Overview
+2. Product Spec
+3. Wireframes
+4. Schema
+
 
 Overview
+
 
 
 Description
@@ -18,8 +20,6 @@ An app that allows users to collaboratively construct a playlist for an event.
 
 
 App Evaluation
-
-[Evaluation of your app across the following attributes]
 
 * *Category:* Music
 * *Mobile:* 
@@ -45,7 +45,7 @@ Product Spec
     * Search music
 
 
-* * Additional Stories for the Target product*
+* *Additional Stories for the Target product*
 
    * Clients can...
     * Join queue with a code
